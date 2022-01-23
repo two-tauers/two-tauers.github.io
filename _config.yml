@@ -1,0 +1,13 @@
+---
+title: two tauers
+email: m.lisogorskyi@gmail.com
+description: >
+  This is two tauers docs, in theory
+baseurl: two-tauers
+url: ""
+github_username: timberhill
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+

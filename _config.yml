@@ -18,6 +18,8 @@ url: https://two-tauers.github.io
 github_username: two-tauers
 
 theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+
 # plugins:
 #   - jekyll-feed
 

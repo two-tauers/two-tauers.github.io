@@ -1,5 +1,5 @@
 ---
-name: Lint & Spellcheck
+name: Lint
 
 on:
   pull_request:
@@ -10,14 +10,6 @@ on:
       - "**.markdown"
 
 jobs:
-
-  spelling:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Check Spelling
-        uses: rojopolis/spellcheck-github-actions@v0.5.0
-
   lint:
     runs-on: ubuntu-latest
     steps:

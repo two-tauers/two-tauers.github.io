@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Check Spelling
-        uses: rojopolis/spellcheck-github-actions@v0.21.1
+        uses: rojopolis/spellcheck-github-actions@0.21.1
 
   lint:
     runs-on: ubuntu-latest

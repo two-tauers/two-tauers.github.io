@@ -35,3 +35,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md # this is only for the repo
+
+aux_links:
+  "two tauers on github":
+    - "//github.com/two-tauers"

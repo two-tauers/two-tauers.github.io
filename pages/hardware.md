@@ -14,7 +14,7 @@ Four is just a nice number of Raspberry Pi's. If you would like to make a bigger
 
 The minimal list of components is as follows:
 
-* Computer that you will use to manage the Pis from. We're not connecting the cluster to any screens or keyboards. Any old PC will do, but it is much easier from Linux or Mac.
+* Computer that you will use to manage the Pis from. We're not connecting the cluster to any screens or keyboards. Any old PC/laptop will do, but it is much easier from Linux or Mac.
 
 * Raspberry Pis, of course -- those should be 3B or later. I use 4x [RPi 4B with 4Gb of RAM](https://thepihut.com/products/raspberry-pi-4-model-b?variant=20064052740158) and it seems plenty. You can also mix and match, but you will want at least your master node to have plenty of memory.
 

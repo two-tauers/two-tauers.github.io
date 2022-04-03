@@ -48,7 +48,7 @@ The readme briefly explains what the code is doing, but the two main sections ar
 
 ### Run the baseline playbooks
 
-Now that you have IP addresses of all the nodes, we can set up ansible inventory.
+Now that you have IP addresses of all the nodes, we can set up [ansible inventory](https://github.com/two-tauers/baseline/blob/main/inventory.yaml).
 Below is the example from the repo and some explanations
 
 ```yaml

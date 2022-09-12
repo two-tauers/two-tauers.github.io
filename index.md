@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Intro
+title: Introduction
 nav_order: 0
 ---
 

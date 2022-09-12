@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Hardware
-permalink: /hardware/
+parent: Build the cluster
+permalink: /build/hardware/
 nav_order: 1
 ---
 

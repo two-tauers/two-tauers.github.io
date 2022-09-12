@@ -1,9 +1,13 @@
 ---
 layout: page
 title: OS
-permalink: /os/
+parent: Build the cluster
+permalink: /build/os/
 nav_order: 2
 ---
+
+review
+{: .label }
 
 ## Install Ubuntu Server
 
